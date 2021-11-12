@@ -1,0 +1,20 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "task app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukynav/task.git"
+  },
+  "author": "Lucas Navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lukynav/task/issues"
+  },
+  "homepage": "https://github.com/Lukynav/task#readme"
+}
